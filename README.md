@@ -8,6 +8,6 @@
 <p>I used in the application pictures of: TFT items, Little Legends, Rare Eggs, Victory/Defeat emblems and also several sounds from TFT mobile version.</p>
 <p>Little Legends does not affect the gameplay, they are just for beauty, to amuse the player and help him to feel the atmosphere of TFT even better.
 I want to add that people like to play this game, this application received nice feedback.</p>
-<p>I attach screenshots, also you can watch video trailer here: https://youtu.be/Zkdi5bkjpuA </p>
+<p><b>I attach screenshots, also you can watch video trailer here: https://youtu.be/Zkdi5bkjpuA </b></p>
 <p>Please check my application. Waiting for the approval.
 Best wishes,  Yevhenii</p>
