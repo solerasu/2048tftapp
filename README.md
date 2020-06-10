@@ -1,5 +1,5 @@
 # 2048tftapp
-2048 Teamfight Tactics Android Application to RIOT for the approval
+2048 Teamfight Tactics Application to RIOT for the approval
 
 <p>2048 TFT is 2048 game in TeamFight Tactics style. It's like a puzzle that allows people to remember the appearance of objects from the original TFT game, as well as to look at TFT from different angles.</p>
 <p><i>Just in case, if suddenly you did not play the original 2048: You must swipe to move all tiles. When two tiles with the same number touch, they merge into one. Get to the 2048 tile and then reach your highest score.</i></p>
